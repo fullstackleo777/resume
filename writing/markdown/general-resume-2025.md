@@ -9,7 +9,7 @@ _**🏆 Available Remotely!**_
 
 leo@fullstackleo.net
 
-+1 737 377 4837
++1 512 312 8481
 
 
 ## Portfolios

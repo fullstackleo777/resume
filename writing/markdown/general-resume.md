@@ -2,7 +2,7 @@
 **Full Stack Developer**  
 Texas
 leo@fullstackleo.net
-+1 737 377 4837  
++1 512 312 8481  
 
 **Hire me to execute your goals!**  
 Authorized to work in the US for any employer  
