@@ -25,7 +25,7 @@ leo@fullstackleo.net
 
 **X:** @xfullstackleo
 
-**Reddit:** @fullstackleo777
+**Reddit:** @changosocial
 
 
 ## FullStack Skills
