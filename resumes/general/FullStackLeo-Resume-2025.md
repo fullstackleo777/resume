@@ -6,7 +6,7 @@ _**Available Remotely!**_
 ✉️ leo@fullstackleo.net | 📱+1 512 312 8481
 
 ## Portfolios
-**Full Stack Dev:** https://fullstackleo.net | Web Dev, Design, **Writing: https:**//idealeo.net | **GitHub:** https://github.com/fullstackleo777
+**Full Stack Dev:** https://fullstackleo.net | **Web Dev, Design, Writing:** https://idealeo.net | **GitHub:** https://github.com/fullstackleo777
 
 ## Social
 **X:** @xfullstackleo | **Reddit:** @changosocial
