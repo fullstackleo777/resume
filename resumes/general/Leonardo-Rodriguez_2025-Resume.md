@@ -70,21 +70,21 @@ at **PetroPages, INC.** from **July 2018 to April 2021**
 
 **Office Location:** Webster, TX  |  **Phone:** +1 281 316 0353  |  **Website:** https://petropages.com
 
-Onsite, I worked on enterprise & medium business scale projects, secured servers (Linux, Ubuntu, CentOS, Azure, AWS, GCP), encrypted databases (MySQL, MariaDB), shielded REST API endpoints, hardened/encrypted/sanitized/speed-optimized digital products (LetsEncrypt, Fail2Ban, and more!), executed the company-wide switch to GIT version control with CI/CD along with Adrian (CTO), converted front-end mockup designs into HTML/CSS/JavaScript/PHP/Wordpress, executed architecture updates/upgrades (LAMP, GCP, AWS, Azure), and maintained/troubleshooted/debugged back-end programming (PHP and .NET).
+Onsite, I worked on enterprise & medium business scale projects, secured servers (Linux, Ubuntu, CentOS, Azure, AWS, GCP), encrypted databases (MySQL, MariaDB), shielded REST API endpoints, hardened/encrypted/sanitized/speed-optimized digital products (LetsEncrypt, Fail2Ban, and more!), executed the company-wide switch to GIT version control with CI/CD along with Adrian (CTO), converted front-end mockup designs into HTML/CSS/JavaScript/PHP/Wordpress, executed architecture updates/upgrades (LAMP, GCP, AWS, Azure), crafted HubSpot marketing campaigns, and maintained/troubleshooted/debugged back-end programming (PHP and .NET).
 
 ### _**Business Manager**_
 at **SignDepotATX** from **December 2015 to January 2017**
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 219 8000  |  **Website:** https://signdepotatx.com
 
-I began as a graphic designer setting up print files but was promoted to business manager once I started talking to clients/prospects and increasing sales volume. As manager, I managed interns/designers/production/shop workflows, created sales training manuals with Fernando which increased sales, maintained vendor/client relations, designed signage/branding/marketing material using Photoshop/Illustrator, and created successful marketing campaigns.
+I began as a graphic designer setting up print files but was promoted to business manager once I started talking to clients/prospects and increasing sales volume. As manager, I managed interns/designers/production/shop workflows, created sales training manuals with Fernando which increased sales, maintained vendor/client relations, designed signage/branding/marketing material using Photoshop/Illustrator, executed organic SEO camapaigns on Magento Store, sent out mass communications using MailChimp, and created successful marketing campaigns.
 
 ### _**Creative Director**_
 at **Image Master Group - A Division of XL Sales & Marketing, LLC** from **February 2012 to November 2015**
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 365 0135  |  **Website:** https://imagemastergroup.com
 
-Along with the Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
+Along with the Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, pushed mass communications via Constant Contact, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
 
 ## Education
 _**Bachelor's Degree in Graphic & Web Design Program**_ from **The Art Institute of Austin** in **Austin, TX** from **September 2010 to July 2014**
