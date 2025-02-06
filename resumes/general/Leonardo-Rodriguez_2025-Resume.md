@@ -80,7 +80,7 @@ at **SignDepotATX** from **December 2015 to January 2017**
 I began as a graphic designer setting up print files but was promoted to business manager once I started talking to clients/prospects and increasing sales volume. As manager, I managed interns/designers/production/shop workflows, created sales training manuals with Fernando which increased sales, maintained vendor/client relations, designed signage/branding/marketing material using Photoshop/Illustrator, executed organic SEO camapaigns on Magento Store, sent out mass communications using MailChimp, and created successful marketing campaigns.
 
 ### _**Creative Director**_
-at **Image Master Group - A Division of XL Sales & Marketing, LLC** from **February 2012 to November 2015**
+at **Image Master Group - A Division of XL Sales & Marketing, LLC.** from **February 2012 to November 2015**
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 365 0135  |  **Website:** https://imagemastergroup.com
 
