@@ -84,7 +84,7 @@ at **Image Master Group - A Division of XL Sales & Marketing, LLC** from **Febru
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 365 0135  |  **Website:** https://imagemastergroup.com
 
-Along with the Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, pushed mass communications via Constant Contact, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
+Along with Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, pushed mass communications via Constant Contact, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
 
 ## Education
 _**Bachelor's Degree in Graphic & Web Design Program**_ from **The Art Institute of Austin** in **Austin, TX** from **September 2010 to July 2014**
