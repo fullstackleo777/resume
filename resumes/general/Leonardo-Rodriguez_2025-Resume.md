@@ -15,7 +15,7 @@ I'm a high-energy and knowledge thirsty _**Remote Full Stack Mobile & Web Develo
 
 As a legal Mexican immigrant in the USA, I speak native English and Spanish. 🇲🇽 🇺🇲
 
-What are you waiting for? Let's start executing your full stack mobile and web projects today!
+What are you waiting for? Start executing your full stack mobile and web projects today!
 
 ## Portfolios
 
@@ -56,36 +56,35 @@ What are you waiting for? Let's start executing your full stack mobile and web p
 ### _**Remote Freelance Full Stack Developer**_
 at **Freelance** from **January 2016 to December 2024**
 
-Since the tech industry is very unpredictable, when I don't have a full time job, I work as a freelancer. In this position, I planned/built/maintained full stack development projects (LAMP, MERN), designed brand identities/developed for web/mobile, designed custom print projects, managed business (accounting, sales, client relations), and led teams of freelancer talent.
+Since the tech industry is very unpredictable, when I don't have a full time job, I work as a freelancer. In this position, I planned/built/maintained full stack development projects (LAMP, MERN, Wordpress, Shopify), designed brand identities using Photoshop/Illustrator/GIMP/Inkscape, developed for web/mobile using HTML/CSS/SASS/Javascript/Node.js/Vue.js/VSCodium/PHP, designed custom print projects, managed business (accounting, sales, client relations), and led teams of freelancer talent to successful project completion.
 
 ### _**Remote QA Specialist and Web Developer**_
 at **Education Strategy Consulting, INC.** from **June 2021 to November 2023**
 
 **Office Location:** Charlottesville, Virginia  |  **Phone:** +1 434 961 2584  |  **Website:** https://escmatrix.com
 
-In this role, I scrutinized the company's web development process, QA tested big data web apps on varied environments,
-unit tested ESC's proprietary development framework, wrote technical documentation, kept track of ongoing issues/bugs across multiple projects, QA tested big data renders via automated tests, and QA tested manual data spot checks.
+In this role, I scrutinized the company's Java/R/Podman/Node.js/HTML/CSS/SASS/Javascript/PostgreSQL web development process, QA tested big data web apps on varied environments (AWS, Localhost, BrowserStack), unit tested ESC's proprietary development framework, wrote technical documentation, kept track of ongoing issues/bugs across multiple projects, QA tested big data renders via automated tests, and QA tested data manually on LibreOfficeCalc/WebApp.
 
 ### Full Stack Developer
 at **PetroPages, INC.** from **July 2018 to April 2021**
 
 **Office Location:** Webster, TX  |  **Phone:** +1 281 316 0353  |  **Website:** https://petropages.com
 
-Onsite, I worked on enterprise & medium business scale projects, secured servers, encrypted databases, shielded API endpoints, encrypted/sanitized/speed-optimized digital products, executed the company-wide switch to GIT with CI/CD with Adrian (CTO), converted front-end mockup designs into HTML/CSS/JavaScript/PHP, executed architecture updates/upgrades (LAMP, GCP, AWS, Azure), and maintained/troubleshooted/debugged back-end programming (PHP and .NET).
+Onsite, I worked on enterprise & medium business scale projects, secured servers (Linux, Ubuntu, CentOS, Azure, AWS, GCP), encrypted databases (MySQL, MariaDB), shielded REST API endpoints, hardened/encrypted/sanitized/speed-optimized digital products (LetsEncrypt, Fail2Ban, and more!), executed the company-wide switch to GIT version control with CI/CD along with Adrian (CTO), converted front-end mockup designs into HTML/CSS/JavaScript/PHP/Wordpress, executed architecture updates/upgrades (LAMP, GCP, AWS, Azure), and maintained/troubleshooted/debugged back-end programming (PHP and .NET).
 
 ### _**Business Manager**_
 at **SignDepotATX** from **December 2015 to January 2017**
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 219 8000  |  **Website:** https://signdepotatx.com
 
-I began as a graphic designer setting up print files but was promoted to business manager once I started talking to clients/prospects and increasing sales volume. As manager, I managed interns/designers/production/shop workflows, created sales training manuals with Fernando which increased sales, maintained vendor/client relations, and created successful marketing campaigns.
+I began as a graphic designer setting up print files but was promoted to business manager once I started talking to clients/prospects and increasing sales volume. As manager, I managed interns/designers/production/shop workflows, created sales training manuals with Fernando which increased sales, maintained vendor/client relations, designed signage/branding/marketing material using Photoshop/Illustrator, and created successful marketing campaigns.
 
 ### _**Creative Director**_
 at **Image Master Group - A Division of XL Sales & Marketing, LLC** from **February 2012 to November 2015**
 
 **Office Location:** Austin, TX  |  **Phone:** +1 512 365 0135  |  **Website:** https://imagemastergroup.com
 
-Along with the CEO, I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery, developed company website using Wix, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
+Along with the Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
 
 ## Education
 _**Bachelor's Degree in Graphic & Web Design Program**_ from **The Art Institute of Austin** in **Austin, TX** from **September 2010 to July 2014**
