@@ -28,7 +28,7 @@ What are you waiting for? Start executing your full stack mobile and web project
 
 ## Skills
 
-🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CE
+🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CD
 
 🗄️ **Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
