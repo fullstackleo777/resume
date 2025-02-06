@@ -1,5 +1,5 @@
 # Leonardo Rodriguez
-_**Remote Full Stack Mobile & Web Developer**_
+# _**Remote Full Stack Mobile & Web Developer**_
 
 ## Contact Info
 
