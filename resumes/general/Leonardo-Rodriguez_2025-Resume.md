@@ -13,7 +13,7 @@
 
 I'm a high-energy and knowledge thirsty _**Remote Full Stack Mobile & Web Developer**_ with 15 years of experience in fullstack development, business management, and creative direction. I excel in HTML, CSS, Javascript, PHP, Python, Frontend, Backend, Deployment, Linux, Server Security, Wordpress, HubSpot, Photoshop, Illustrator, and more!
 
-As a legal Mexican immigrant in the USA, I speak native English and Spanish. 🇲🇽 🇺🇲
+I speak native English and Spanish. 🇲🇽 🇺🇲
 
 What are you waiting for? Start executing your full stack mobile and web projects today!
 
@@ -87,4 +87,4 @@ at **Image Master Group - A Division of XL Sales & Marketing, LLC.** from **Febr
 Along with Jose (CEO), I designed company catalogs, created sales presentations for the sales team, created digital graphics for web use, art directed creative marketing campaigns, designed marketing material/promo videos/TV ads/social media imagery/signage/ambient event imagery using Photoshop/Illustrator/Premiere/Sparkle, developed company website using Wix, pushed mass communications via Constant Contact, and developed brochure websites for clientele using Notepad++/HTML/CSS/JavaScript/PHP/WHM with cPanel hosting.
 
 ## Education
-_**Bachelor's Degree in Graphic & Web Design Program**_ from **The Art Institute of Austin** in **Austin, TX** from **September 2010 to July 2014**
+_**Bachelor's of Science in Graphic & Web Design Program**_ from **The Art Institute** in **Austin, TX** from **August 2010 to July 2014**
