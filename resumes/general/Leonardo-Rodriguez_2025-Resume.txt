@@ -23,13 +23,13 @@ Web Dev, Design, Writing: https://idealeo.net
 GitHub: https://github.com/fullstackleo777
 
 Skills
-🌐 Deployment: Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CD
+🌐 Deployment: Linux (Ubuntu, CentOS, RHEL), AWS, GCP, Windows Azure, Docker, Podman, CI/CD
 
 🗄️ Database: MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
-🧠 Back End: Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python, REST API, Auth0
+🧠 Back End: Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python, REST API, OAuth
 
-👁️ Front End: XML, HTML, CSS/SCSS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
+👁️ Front End: XML, HTML, CSS/SCSS/SASS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
 
 ❤️ Open Source Software: Server (Apache, NGINX, Lighttpd, ffmpeg), Productivity (OpenOffice, LibreOffice)
 

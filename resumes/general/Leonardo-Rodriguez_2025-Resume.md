@@ -28,29 +28,29 @@ What are you waiting for? Start executing your full stack mobile and web project
 
 ## Skills
 
-🌐 **Deployment:** Linux (Ubuntu, CentOS, RHEL), AWS, GCS, Windows Azure, Docker, Podman, CI/CD
+🌐 Deployment: Linux (Ubuntu, CentOS, RHEL), AWS, GCP, Windows Azure, Docker, Podman, CI/CD
 
-🗄️ **Database:** MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
+🗄️ Database: MySQL, NoSQL, SQLite, MariaDB, PostgreSQL, Database Visualizers
 
-🧠 **Back End:** Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python, REST API, Auth0
+🧠 Back End: Linux, Bash Scripting, Cron Jobs, SSH, Node.js, PHP, Python, REST API, OAuth
 
-👁️ **Front End:** XML, HTML, CSS/SCSS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
+👁️ Front End: XML, HTML, CSS/SCSS/SASS, Javascript, Organic SEO, Frameworks (Vue.js, Svelte, React.js)
 
-❤️ **Open Source Software:** Server (Apache, NGINX, Lighttpd, ffmpeg), Productivity (OpenOffice, LibreOffice)
+❤️ Open Source Software: Server (Apache, NGINX, Lighttpd, ffmpeg), Productivity (OpenOffice, LibreOffice)
 
-🖼️ **Creative Software:** Adobe (Photoshop, Illustrator, InDesign, Premiere Pro), Open Source (Inkscape, Gimp)
+🖼️ Creative Software: Adobe (Photoshop, Illustrator, InDesign, Premiere Pro), Open Source (Inkscape, Gimp)
 
-🔐 **Server Security:** Firewalled, SSL/TLS, Fail2Ban, SSH Keys, Argon2, IP White/Blacklisting
+🔐 Server Security: Firewalled, SSL/TLS, Fail2Ban, SSH Keys, Argon2, IP White/Blacklisting
 
-🔑 **DNS Security:** DNSSEC, DDOS Protection, Secure Cache, DNS Proxy, DNS Firewall
+🔑 DNS Security: DNSSEC, DDOS Protection, Secure Cache, DNS Proxy, DNS Firewall
 
-🖱️ **Content Management Systems:** HubSpot, Wordpress, Wix, Squarespace, Drupal
+🖱️ Content Management Systems: HubSpot, Wordpress, Wix, Squarespace, Drupal
 
-💰 **eCommerce Platforms:** WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
+💰 eCommerce Platforms: WP WooCommerce, Magento CE, Shopify, Thirty Bees, Wix, Squarespace
 
-🛠️ **Dev Tooling:** GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
+🛠️ Dev Tooling: GIT (GitHub, GitLab, GiTea), VSCodium, VSCode, Vim, Nano, DIFF, Chrome DevTools
 
-👨‍💼 **Project Management:** Agile, Scrum, Lean, BPM
+👨‍💼 Project Management: Agile, Scrum, Lean, BPM
 
 ## Work Experience
 ### _**Remote Freelance Full Stack Developer**_
