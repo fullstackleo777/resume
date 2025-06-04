@@ -1,7 +1,7 @@
 ![Resume Cover Image](https://raw.githubusercontent.com/fullstackleo777/covers/refs/heads/main/covers/resume/cover_resume.png)
 
 # resume
-Resume content for FullStackLeo
+Resume & Cover Letter Content - FullStackLeo
 
 # Leonardo Rodriguez
 # _**Remote Full Stack Mobile & Web Developer**_
