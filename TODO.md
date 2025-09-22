@@ -9,6 +9,9 @@
     - PowerBI Data Visualization Expert
     - bubble.io Developer
     - Data Visualization Dashboards
+    - eCommerce in General
+    - Shopify Developer
+    - Magento Developer
 
 3. Create Vanilla HTML/CSS/JS/PHP & MariaDB Website
     - Website Features:
