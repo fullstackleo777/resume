@@ -12,6 +12,7 @@
     - eCommerce in General
     - Shopify Developer
     - Magento Developer
+    - AI/LLM
 
 3. Create Vanilla HTML/CSS/JS/PHP & MariaDB Website
     - Website Features:
